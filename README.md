@@ -200,7 +200,6 @@ I'm continuously improving my problem-solving skills through:
 ---
 
 # 📊 GitHub Stats
-# 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Chandhra103&theme=tokyonight&show_icons=true)
 
@@ -209,13 +208,6 @@ I'm continuously improving my problem-solving skills through:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chandhra103&layout=compact&theme=tokyonight)
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BOTCHACHANDHRASHEKHAR/BOTCHACHANDHRASHEKHAR/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 💭 Developer Mindset
 
