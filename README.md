@@ -200,25 +200,13 @@ I'm continuously improving my problem-solving skills through:
 ---
 
 # 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.shion.dev/api?username=Chandhra103&theme=tokyonight&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=BOTCHACHANDHRASHEKHAR&theme=tokyonight&show_icons=true&hide_border=true" />
+![](https://streak-stats.demolab.com/?user=Chandhra103&theme=tokyonight)
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=BOTCHACHANDHRASHEKHAR&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTCHACHANDHRASHEKHAR&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chandhra103&layout=compact&theme=tokyonight)
 ---
 
 ## 🐍 Contribution Graph
